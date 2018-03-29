@@ -1,4 +1,4 @@
-WeatherXu
+#WeatherXu
 
-add the READ.ME file
+add the README file
 
